@@ -9,7 +9,7 @@ module.exports = {
     {
       host: "192.168.94.208", // Your lavalink host address 
       password: "beruj1111", // Your lavalink password
-      port: 6434, // Your lavalink port
+      port: 2333, // Your lavalink port
       identifier: "Node", // Name for your lavalink
       secure: false, // set to true if your lavalink has SSL
       reconnectTimeout: 300000,
